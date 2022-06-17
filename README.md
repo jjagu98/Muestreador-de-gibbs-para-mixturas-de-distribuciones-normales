@@ -1,0 +1,1 @@
+# Muestreador-de-gibbs-para-mixturas-de-distribuciones-normales
